@@ -6,11 +6,6 @@ HTML
 CSS  
 JavaScript  
 
-# Installation  
-To install the application, follow these steps:  
-Clone the repository: git clone https://github.com/amanindian/ShopNow.git  
-Open the index.html file in your preferred browser  
-
 # Features  
 ShopNow offers a variety of features for online shopping, including:  
 A user-friendly interface for browsing products  
